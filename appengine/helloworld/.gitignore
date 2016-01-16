@@ -1,7 +1,2 @@
-# Eclipse files
-.project
-.classpath
-.settings
-
-# Target folders
-target/
+$ git clone https://github.com/GoogleCloudPlatform/java-docs-samples.git
+$ cd appengine/helloworld
